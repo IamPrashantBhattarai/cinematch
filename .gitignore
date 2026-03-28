@@ -1,0 +1,30 @@
+# Virtual environments
+myenv/
+venv/
+env/
+test_env/
+.venv/
+
+# Cache & generated data
+data/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/
+
+# Environment variables
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

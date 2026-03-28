@@ -1,0 +1,12 @@
+myenv/
+test_env/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.git/
+.gitignore
+*.md
+notebooks/
+.env
+ 
