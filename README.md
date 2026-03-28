@@ -147,6 +147,12 @@ For free-text queries (`recommend_by_description`), the user's input goes throug
 
 ---
 
+## Screenshots
+
+![CineMatch UI](screenshots/demo.png)
+
+---
+
 ## Example Outputs
 
 ### By Title — "The Dark Knight"
