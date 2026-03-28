@@ -15,7 +15,6 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
-notebooks/
 
 # Environment variables
 .env
