@@ -153,7 +153,7 @@ For free-text queries (`recommend_by_description`), the user's input goes throug
 
 ## How Cosine Similarity Works
 
-![Cosine Similarity Explained](screenshots/cosine_similarity_explained.png)
+![Cosine Similarity Explained](screenshots/cinematch_whiteboard_diagram.svg)
 
 ---
 
